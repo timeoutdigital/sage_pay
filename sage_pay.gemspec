@@ -78,8 +78,6 @@ gateway for accepting credit card payments through your web app.
     lib/sage_pay/server/signature_verification_details.rb
     lib/sage_pay/server/transaction_code.rb
     lib/sage_pay/uri_fixups.rb
-    lib/validatable-ext.rb
-    lib/validations/validates_inclusion_of.rb
     sage_pay.gemspec
     spec/integration/sage_pay/server_spec.rb
     spec/sage_pay/server/address_spec.rb
